@@ -2,7 +2,7 @@
 
 Este proyecto ha sido desarrollado con **React** y **TypeScript**, aprovechando la potencia de **Zustand** para la gestión del estado, **React Router DOM** para la navegación, y **TailwindCSS** para el diseño de la interfaz.
 
-* [Ver sitio en Netlify]()
+* [Ver sitio en Netlify](https://ecom-shop-dapros.netlify.app/)
 
 ## Descripción
 
