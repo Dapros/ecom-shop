@@ -28,7 +28,7 @@ export default function Header() {
         <div className='flex items-center w-full md:w-2/3 mx-auto md:justify-between justify-around'>
           <div>
             <img 
-              src="/public/Icon.svg" 
+              src="/Icon.svg" 
               alt="ICONO"
               className='w-23'
             />
